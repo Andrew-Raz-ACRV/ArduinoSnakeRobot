@@ -7,15 +7,15 @@ This was a project to develop a Concentric tube robot at IIT Madras using an Ard
 You'll need these libraries for the Arduino:
 AccelStepper for Stepper motor control:
 
-'''
+```
 #include <AccelStepper.h> //Get from https://github.com/adafruit/AccelStepper
-'''
+```
 
 And MatrixMath for the inverse kinematics of a concentric tube robot
 
-'''
+```
 #include <MatrixMath.h> //Get from https://github.com/eecharlie/MatrixMath
-'''
+```
 
 
 ## Arduino Setup:
@@ -29,12 +29,12 @@ The Pin connections: (sorry its just a picture rather than a diagram)
 There are a bunch of MATLAB code to interract with the robot including a GUI that visualises the robot and serial communication for inverse kinematics commands
 Run the main arduino code:
 
-'''
+```
 SnakeRobotIITMadrasSerialInterface.ino
-'''
+```
 
 And on Matlab run the GUI:
 
-'''
+```
 SnakeRobotIITMadrasGUI.m
-'''
+```
