@@ -17,7 +17,7 @@ And MatrixMath for the inverse kinematics of a concentric tube robot
 #include <MatrixMath.h> //Get from https://github.com/eecharlie/MatrixMath
 ```
 ## Final Code
-There are a bunch of MATLAB code to interract with the robot including a GUI that visualises the robot and serial communication for inverse kinematics commands
+There is a bunch of MATLAB code to interract with the robot including a GUI that visualises the robot and serial communication for inverse kinematics commands
 Run the main arduino code:
 
 ```
