@@ -8,7 +8,7 @@
 // (x35y25z200)       //This gives a target coordinate in mm to the robot. 
 //                   //The robot tool point will go to this position
 // t                 //This terminates inverse kinematics
-// k                 //This kills the robot and resets it to move back t the start
+// k                 //This kills the robot and resets it to move back to the start
 //
 // Written by Andrew Razjigaev
 
